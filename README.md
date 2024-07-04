@@ -1,16 +1,16 @@
 - 👋 Hi there, I’m Ibtissam El Alami
 - 🚀 About Me<br>
 I'm a passionate DevSecOps enthusiast dedicated to making the internet a safer place. With a strong background in telecommunication and networks engineering, I focus on integrating security practices into the software development lifecycle, ensuring robust and secure applications from development to deployment.
-- 🛠️ Technologies & Tools
-Languages: Java, Python, JavaScript
-Frameworks: Spring Boot, React 
-DevOps Tools: Docker,Ansible, Terraform
-Security Tools: OWASP ZAP, Burp Suite, Nessus, Metasploit
-Databases: MySQL, PostgreSQL
-Cloud: AWS
-- 📫 How to reach me
-  Email: btissa.alami@gmail.com
-  LinkedIn: https://www.linkedin.com/in/ibtissam-elalami/
+- 🛠️ Technologies & Tools<br>
+Languages: Java, Python, JavaScript<br>
+Frameworks: Spring Boot, React <br>
+DevOps Tools: Docker,Ansible, Terraform<br>
+Security Tools: OWASP ZAP, Burp Suite, Nessus, Metasploit<br>
+Databases: MySQL, PostgreSQL<br>
+Cloud: AWS<br>
+- 📫 How to reach me<br>
+  Email: btissa.alami@gmail.com<br>
+  LinkedIn: https://www.linkedin.com/in/ibtissam-elalami/<br>
 
 <!---
 attoba/attoba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
