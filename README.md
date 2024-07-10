@@ -6,7 +6,7 @@ I'm a passionate DevSecOps enthusiast dedicated to making the internet a safer p
 - Languages: Java, Python, JavaScript<br>
 - Frameworks: Spring Boot, React <br>
 - DevOps Tools: Docker,Ansible, Terraform<br>
-- Security Tools: OWASP ZAP, Burp Suite, Nessus, Metasploit<br>
+- Security Tools: OWASP ZAP, Burp Suite, Nessus, Wireshark<br>
 - Databases: MySQL, PostgreSQL<br>
 - Cloud: AWS<br>
 <h2>📫 How to reach me</h2> 
